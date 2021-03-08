@@ -1,8 +1,8 @@
 # ignore these files
-wh*
-vo*
+whatsapp.*
+vowel_counter.*
 todo*
-expense*
-note*
-camera*
-search*
+expense_tracker.*
+notepad.*
+camer*.*
+search*.*
